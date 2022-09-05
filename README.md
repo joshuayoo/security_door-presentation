@@ -7,4 +7,4 @@
 ### 3)web/web.py
 #### 얼마나 들어왔었는지 웹사이트 상에서 보여주다.
 #### http://01234.shop:20000
-#### <img width="837" alt="image" src="https://user-images.githubusercontent.com/80575942/188351826-cc1cf870-097c-4580-b125-af464c63a377.png">
+#### <img width="852" alt="image" src="https://user-images.githubusercontent.com/80575942/188352172-d372035e-9bbe-4547-bcb2-84c30e67fc65.png">
