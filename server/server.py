@@ -49,7 +49,7 @@ def data_def(name, id):
     a = int(df.iloc[-1][name + '_*_' +id ]) +1
     df.at[a1, name + '_*_' +id] = a
 
-    df.to_csv('/home/pi/project/data/much.csv',index=False)
+    df.to_csv('/home/joshua/project/data/much.csv',index=False)
     
 
 while True:
