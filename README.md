@@ -1,4 +1,4 @@
-# security_door-presentation
+# security_door
 ## 1.server
 ### ㅤ1)server.py
 #### ㅤㅤ문과 네트워크로 상호작용하여 RFID 값을 문으로부터 가져와서
