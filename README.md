@@ -4,3 +4,7 @@
 #### 문과 네트워크로 상호작용하여 RFID 값을 문으로부터 가져와서 펀별 후 다시 값(이름과 성공여부)를 다시 보내 준다.
 ### 2)server_regist.py
 #### 등록해주는 라즈베리파이와 상호작용하여 RFID 값(id와 name)을 csv파일로 저장한다.
+### 3)web/web.py
+#### 얼마나 들어왔었는지 웹사이트 상에서 보여주다.
+#### http://01234.shop:20000
+#### <img width="837" alt="image" src="https://user-images.githubusercontent.com/80575942/188351826-cc1cf870-097c-4580-b125-af464c63a377.png">
