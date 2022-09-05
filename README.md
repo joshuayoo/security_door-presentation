@@ -5,6 +5,13 @@
 ### 2)server_regist.py
 #### 등록해주는 라즈베리파이와 상호작용하여 RFID 값(id와 name)을 csv파일로 저장한다.
 ### 3)web/web.py
-#### 얼마나 들어왔었는지 웹사이트 상에서 보여주다.
+#### 누가 얼마나 들어왔었는지 웹사이트 상에서 보여주다.
 #### http://01234.shop:20000
 #### <img width="852" alt="image" src="https://user-images.githubusercontent.com/80575942/188352172-d372035e-9bbe-4547-bcb2-84c30e67fc65.png">
+### 4)shell
+#### start.sh
+#####   처음 컴퓨터가 시작할떄 위 3개의 python 실행
+#### check.sh
+#####   1분간격으로 위 3개의 python이 잘 실행되고 있는지 확인후 프로세스가 죽어 있으면 다시 실행
+
+## 2.regist
