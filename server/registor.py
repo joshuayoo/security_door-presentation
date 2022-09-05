@@ -8,10 +8,10 @@ def registor(id):
         id[0] = hashlib.sha256(str(id[0]).encode()).hexdigest()
         text = hashlib.sha256(str(id[1]).encode()).hexdigest()
         a = list(DataFrame(df))
-        if id[1] + '_' +id[0] in a:
+        if id[1] + '_*_' +id[0] in a:
             return 'error'
         del(a)
-        df[id[1] + '_' +id[0]] = 0
+        df[id[1] + '_*_' +id[0]] = 0
         df.to_csv('/home/joshua/project/data/much.csv',index=False)
         del(df)
         df_1 = pd.read_csv('/home/joshua/project/data/check.csv')
