@@ -11,8 +11,8 @@
 ### <img width="852" alt="image" src="https://user-images.githubusercontent.com/80575942/188352172-d372035e-9bbe-4547-bcb2-84c30e67fc65.png">
 ### ㅤ4) shell
 ### ㅤㅤstart.sh
-### ㅤㅤㅤ처음 컴퓨터가 시작할떄 위 3개의 python 실행
+#### ㅤㅤㅤ처음 컴퓨터가 시작할떄 위 3개의 python 실행
 ### ㅤㅤcheck.sh
-### ㅤㅤㅤ1분간격으로 위 3개의 python이 잘 실행되고 있는지 확인후 프로세스가 죽어 있으면 다시 실행
+#### ㅤㅤㅤ1분간격으로 위 3개의 python이 잘 실행되고 있는지 확인후 프로세스가 죽어 있으면 다시 실행
 
 ## 2. regist
