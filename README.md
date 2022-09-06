@@ -8,7 +8,7 @@
 ### ㅤ3) web/web.py
 ### ㅤㅤ누가 얼마나 들어왔었는지 웹사이트 상에서 보여주다.
 ### ㅤㅤhttp://01234.shop:20000
-### <a href="https://google.com"><img width="852" alt="image" src="https://user-images.githubusercontent.com/80575942/188352172-d372035e-9bbe-4547-bcb2-84c30e67fc65.png"></a>
+### <a href="http://01234.shop:20000"><img width="852" alt="image" src="https://user-images.githubusercontent.com/80575942/188352172-d372035e-9bbe-4547-bcb2-84c30e67fc65.png"></a>
 ### ㅤ4) shell
 ### ㅤㅤstart.sh
 #### ㅤㅤㅤ처음 컴퓨터가 시작할떄 위 3개의 python 실행
