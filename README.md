@@ -21,3 +21,5 @@
 ## 3. register
 ### ㅤㅤ소캣 통신을 하며 정보를 등록하게 해준다.
 ## ![image](https://user-images.githubusercontent.com/80575942/188752404-1fdabf4a-46a6-4e78-965e-464c1d7c4814.png)
+## ![image](https://user-images.githubusercontent.com/80575942/188754457-eed05fb8-3d89-4acc-ada7-3e7a47ca6f18.png)
+
