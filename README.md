@@ -17,11 +17,7 @@
 
 ## 2. door
 ### ㅤproject.py
-### ㅤㅤ1) socket
-### ㅤㅤㅤ
-### ㅤㅤ2) rfid
-### ㅤㅤㅤ
-### ㅤㅤ3) serbo
-### ㅤㅤㅤ
-### ㅤㅤ4) lazer, cds
-### ㅤㅤㅤ
+### ㅤㅤ소캣 통신을 하며 문울 열어주는 역할을 한다.
+## 3. register
+### ㅤㅤ소캣 통신을 하며 정보를 등록하게 해준다.
+## ![image](https://user-images.githubusercontent.com/80575942/188752207-73e6de1d-5d93-447f-9789-d600ba242da0.png)
