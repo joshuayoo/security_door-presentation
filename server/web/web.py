@@ -45,4 +45,4 @@ def key():
 
 
 if __name__ == '__main__':
-    app.run(host='172.30.1.33', port="25565")
+    app.run(host='172.30.1.33', port="30000")
