@@ -20,4 +20,4 @@
 ### ㅤㅤ소캣 통신을 하며 문울 열어주는 역할을 한다.
 ## 3. register
 ### ㅤㅤ소캣 통신을 하며 정보를 등록하게 해준다.
-## ![image](https://user-images.githubusercontent.com/80575942/188752207-73e6de1d-5d93-447f-9789-d600ba242da0.png)
+## ![image](https://user-images.githubusercontent.com/80575942/188752404-1fdabf4a-46a6-4e78-965e-464c1d7c4814.png)
