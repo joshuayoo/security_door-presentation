@@ -15,19 +15,22 @@ sock.bind(server_address)
 sock.listen(1)       
 
 def check(id, text):
+    print('id : ' + str(id))
     df = pd.read_csv('/home/joshua/project/data/check.csv')
     data1 =list(df['id'])
+    print("data1 : " + str(data1))
     if id in data1:
+        print('1')
         data1 =list(df['text'])
+        print(data1)
+        print(text)
         for row in range(len(data1)):
-            if text in data1[row]:
+            if text in str(data1[row]):
                 name = df.iloc[row][0]
                 print(name, id)
                 data_def(name, id)
                 a = 'success' + str(name)
                 return a
-            else:
-                return 'deny'
     return 'deny'
     
 def data_def(name, id):
@@ -60,8 +63,10 @@ while True:
         while True:
             data = connection.recv(1024)
             a = format(data.decode())
-            id = a[:len(a)//2]
-            text = a[len(a)//2:]
+            id = a.split('_')
+            print(id)
+            text = id[1]
+            id = id[0]
             print('sending data back to the client')
             send = check(id, text)
             print(send)
